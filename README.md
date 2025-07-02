@@ -1,4 +1,4 @@
-# Olá, Sou Taylor.
+# Olá, Sou Taylor
 
 Sou Técnico em Redes com foco em infraestrutura, cibersegurança ofensiva e automação com Python.  
 Atualmente estudo para a certificação **CCNA**, com o objetivo de avançar para o **CCNP** e atuar tanto na área de redes quanto em segurança da informação.
