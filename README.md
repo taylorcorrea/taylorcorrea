@@ -1,7 +1,7 @@
 # Olá, Seja Bem-Vindo
 
 Sou Taylor apaixonado por Segurança cibernética, sou Técnico em Redes com foco em infraestrutura, Cibersegurança e automação.  
-Atualmente estudo para a certificações **Comptia, Fortinet**, com o objetivo de avançar para o **OSCP, CISSP, CCSP** e atuar tanto na área de redes quanto em segurança.
+Atualmente estudo para a certificações **Comptia, Fortinet**, com o objetivo de avançar para o **OSCP, CISSP, CCSP** e atuar tanto na área de Redes quanto em Segurança.
 
 💻 Realizo testes em ambientes virtualizados com **Kali Linux**, **Metasploit**, **Sliver C2** e ferramentas de enumeração, exploração e pós-exploração.  
 
