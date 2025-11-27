@@ -1,6 +1,6 @@
 # Olá, Seja Bem-Vindo
 
-Sou Ethical hacking, Técnico em Redes com foco em infraestrutura, cibersegurança ofensiva e automação com Python.  
+Sou Técnico em Redes com foco em infraestrutura, cibersegurança ofensiva e automação com Python.  
 Atualmente estudo para a certificação **CCNA**, com o objetivo de avançar para o **CCNP** e atuar tanto na área de redes quanto em segurança da informação.
 
 💻 Realizo testes em ambientes virtualizados com **Kali Linux**, **Metasploit**, **Sliver C2** e ferramentas de enumeração, exploração e pós-exploração.  
