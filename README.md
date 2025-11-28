@@ -181,10 +181,8 @@ Me chamo Taylor Corrêa, tenho 25 anos, sou natural do Rio Grande do Sul. Ensino
   />
 
 </p>
+--------------------
 
-
-----
-----
 ## 📂 Projetos em Destaque
 
 🔗 [Pentest-Lab](https://github.com/taylorcorrea/Pentest-Lab)  
