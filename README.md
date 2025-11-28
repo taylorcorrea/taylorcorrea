@@ -9,7 +9,7 @@ Me chamo Taylor Corrêa, tenho 25 anos, sou natural do Rio Grande do Sul. Ensino
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal"
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor="
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@CyberAnaIyst">
@@ -173,15 +173,9 @@ Me chamo Taylor Corrêa, tenho 25 anos, sou natural do Rio Grande do Sul. Ensino
     src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
---------------------
+
+---
 
 ## 📂 Projetos em Destaque
 
