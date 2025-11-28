@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Taylor Corrêa
 
-**`Cyber Security Analyst`**
+**`Cyber Analyst`**
 
 Me chamo Taylor Corrêa, tenho 25 anos, sou natural do Rio Grande do Sul. Ensino médio concluido. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIASSELVI. Tenho um enorme fascínio por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Cyber Analyst](https://www.youtube.com/@CyberAnaIyst)", onde ensino tudo sobre Segurança Cibernética, e também através do git, com o perfil chamado "[taylorcorrea](https://github.com/taylorcorrea/)".
 
