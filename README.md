@@ -12,7 +12,6 @@ Me chamo Taylor Corrêa, tenho 25 anos, sou natural do Rio Grande do Sul. Ensino
             src="https://img.shields.io/badge/Inscreva--se-CE4630?style=for-the-badge&logo=youtube&logoColor=white"
         />
     </a>
-
     <a href="https://www.youtube.com/@CyberAnaIyst">
         <img 
             alt="visualizacoes" 
@@ -20,7 +19,6 @@ Me chamo Taylor Corrêa, tenho 25 anos, sou natural do Rio Grande do Sul. Ensino
             src="https://img.shields.io/badge/Visualizações-C79600?style=for-the-badge&logo=eye&logoColor=white"
         />
     </a>
-
     <a href="https://github.com/taylorcorrea?tab=repositories">
         <img 
             alt="estrelas"
@@ -28,7 +26,6 @@ Me chamo Taylor Corrêa, tenho 25 anos, sou natural do Rio Grande do Sul. Ensino
             src="https://img.shields.io/badge/Estrelas-4CAF50?style=for-the-badge&logo=star&logoColor=white"
         />
     </a>
-
     <a href="https://github.com/taylorcorrea?tab=followers">
         <img 
             alt="seguidores"
