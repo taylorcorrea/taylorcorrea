@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Taylor Corrêa
+# 👨🏾‍💻 Taylor Corrêa
 
 **`Cyber Analyst`**
 
