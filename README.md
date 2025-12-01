@@ -167,6 +167,9 @@ Me chamo Taylor Corrêa, tenho 25 anos, sou natural do Rio Grande do Sul. Ensino
 
 ![Estatísticas](https://github-readme-stats-eight-theta.vercel.app/api?username=taylorcorrea&show_icons=true&theme=radical)
 
+![Tech Stack](https://skillicons.dev/icons?i=python,linux,bash,c,cpp,raspberrypi,docker,git,vim,arduino,sqlite,regex&theme=dark)
+
+
 ---
 
 ## 📂 Projetos em Destaque
