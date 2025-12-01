@@ -165,7 +165,7 @@ Me chamo Taylor Corrêa, tenho 25 anos, sou natural do Rio Grande do Sul. Ensino
 
 ### 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&hide=html,css,javascript,scss)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ---
 
